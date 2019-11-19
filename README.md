@@ -39,5 +39,5 @@ https://www.sos.ca.gov/business-programs/business-entities/forms/#callc/
 
  Limited Liability Companies – California (Domestic)
 
-[LLC CA snip](https://s3-us-west-2.amazonaws.com/s.cdpn.io/2971879/screencapture-sos-ca-gov-business-programs-business-entities-forms-2019-11-18-16_16_24.png?d=1574122632661)
+![LLC CA snip](https://s3-us-west-2.amazonaws.com/s.cdpn.io/2971879/screencapture-sos-ca-gov-business-programs-business-entities-forms-2019-11-18-16_16_24.png?d=1574122632661)
 
