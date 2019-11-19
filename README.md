@@ -1,6 +1,23 @@
 # CA-LLC
 Repository for workflow to start LLC business in California.
 
+
+You have chosen Limited Liability Company.
+What it is...
+A limited liability company (LLC) is a structure allowed by state statute.
+An LLC is formed by filing articles of organization with the state's secretary of state office.
+An LLC must be unique in its state. There can be no more than one active LLC with the same name in the same state.
+For federal tax purposes, an LLC may be treated as a partnership or a corporation, or be disregarded as an entity separate from its owner.
+An LLC can have two or more members (multi-member) or one member (single-member).
+An LLC can have an unlimited number of members.
+An LLC's members may include individuals, corporations, other LLCs, or foreign entities.
+What it is not...
+LLCs are not incorporated and do not file articles of incorporation.
+If you need to change your type of structure, we recommend that you do so now, otherwise you will have to start over and re-enter your information.  Additional help may be found by reviewing all types of organizations and structures before making your selection.
+
+---
+
+
 Links:
 
 
