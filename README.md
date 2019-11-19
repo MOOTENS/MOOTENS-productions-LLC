@@ -39,5 +39,40 @@ https://www.sos.ca.gov/business-programs/business-entities/forms/#callc/
 
  Limited Liability Companies – California (Domestic)
 
-![LLC CA snip](https://s3-us-west-2.amazonaws.com/s.cdpn.io/2971879/screencapture-sos-ca-gov-business-programs-business-entities-forms-2019-11-18-16_16_24.png?d=1574122632661)
+![LLC CA snip](https://s3-us-west-2.amazonaws.com/s.cdpn.io/2971879/screencapture-sos-ca-gov-business-programs-business-entities-forms-2019-11-18-16_16_24.png?d=1574122632661)\
+
+Basically Fill All of the LLC Documents above. But the link / image above shows the print / snail-mail.
+
+---
+
+# [This link is for filing online](https://llcbizfile.sos.ca.gov/registration)
+
+https://llcbizfile.sos.ca.gov/registration
+
+---
+
+
+LLC-1 info
+
+Submission Review
+Review your submission below to confirm the information is exactly as it is to appear on the records of the California Secretary of State.
+1. Limited Liability Company Name
+MOOTENS PRODUCTIONS LLC
+2. Business Addresses
+A. Initial Street Address of Designated Office in California
+B. Initial Mailing Address
+3. Service of Process - Agent Information
+George  Perez 
+4. Management Structure
+One Manager
+5. Purpose Statement
+The purpose of the limited liability company is to engage in any lawful act or activity for which a limited liability company may be organized under the California Revised Uniform Limited Liability Company Act.
+
+Organizer Electronic Signature
+George Perez
+Organizer Email (submission status updates will be sent to this email address)
+contact@MOOTENS.org
+
+---
+
 
