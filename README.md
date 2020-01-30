@@ -16,17 +16,11 @@ MOOTENS.org
 *Business To Business*
 *Electronic Electronic Solutions*
 
-# MOOTENS productions LLC Recap Business Timeline
 
 
 </center>
 
 
-
-
-###### November 18, 2019
-
-> MOOTENS productions LLC becomes a legally recognized Limited Liability Company
 
 ![https://businesssearch.sos.ca.gov/](https://cdn.steemitimages.com/DQmTWggRythrtubQQ7s5iW7ajs1Cp2aN3pctHtVUAeLN72F/image.png)
 
